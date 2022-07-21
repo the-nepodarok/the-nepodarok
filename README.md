@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-nepodarok
 - 👀 I’m interested in a lot of things really
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m not exactly looking to collaborate on anything
+- 🌱 I’m currently learning <del>HTML/CSS/JS</del>/jQuery/React
+- 💞️ I’m not exactly looking to collaborate on anything right now
 - 📫 How to reach me ... well, why would one?
 
 <!---
