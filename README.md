@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-nepodarok
 - 👀 I’m interested in a lot of things really
-- 🌱 I’m currently learning <del>HTML/CSS/JS</del>/PHP
+- 🌱 I’m currently learning <del>HTML/CSS/JS</del>/✨<b>PHP</b>✨
 - 💞️ I’m not exactly looking to collaborate on anything right now
 - 📫 How to reach me ... well, why would one? 
 
