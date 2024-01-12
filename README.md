@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @the-nepodarok
 - 👀 I’m interested in a lot of things really
 - 🌱 I’m currently learning <del>JS</del>/✨<b>PHP</b>✨
-- 💞️ I’m not exactly looking to collaborate on anything right now
-- 📫 How to reach me ... well, there's contact info on my github page
+- 💞️ Currently collaborating on [PiggyHuset](https://github.com/whatevernumber/PiggyHuset)
+- 📫 How to reach me... there's contact info on my github page
 
 <!---
 the-nepodarok/the-nepodarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
