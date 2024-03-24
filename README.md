@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-nepodarok
 - 👀 I’m interested in a lot of things really
-- 🌱 I’m currently learning <del>JS</del>/✨<b>PHP</b>✨
+- 🌱 I like ✨PHP✨ & ✨JavaScript✨
 - 💞️ Currently collaborating on [PiggyHuset](https://github.com/whatevernumber/PiggyHuset)
 - 📫 How to reach me... there's contact info on my github page
 
